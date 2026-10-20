@@ -215,15 +215,15 @@ Ohjelmointi opitaan kokeilemalla:
 ```text
 valmis ohjelma
       ↓
-kokeile
+    kokeile
       ↓
-muuta
+    muuta
       ↓
-rikko
+    riko
       ↓
-korjaa
+    korjaa
       ↓
-ymmärrä
+    ymmärrä
 ```
 
 Virheet kuuluvat ohjelmointiin.
