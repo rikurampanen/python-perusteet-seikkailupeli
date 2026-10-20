@@ -1,0 +1,6 @@
+print("Olet saapunut pimeään metsään.")
+print("Aurinko on laskemassa.")
+print("Edessäsi on vanha polku.")
+print("Polku johtaa syvemmälle metsään.")
+print("Lähdet seuraamaan polkua.")
+print("Seikkailusi alkaa!")
